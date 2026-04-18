@@ -12,7 +12,6 @@ langchain-openai==0.3.14
 langchain-groq==0.3.2
 langchain-huggingface==0.1.2
 langchain-chroma==0.2.2
-langchain-pinecone==0.2.5
 langchain-qdrant==0.2.0
 chromadb==1.0.5
 pypdf==5.4.0
