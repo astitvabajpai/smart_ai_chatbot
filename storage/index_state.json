@@ -1,0 +1,124 @@
+{
+  "default": [
+    {
+      "page_content": "Astitv Bajpai\nGreater Noida, Uttar Pradesh, India\nPhone: +91 8112647449 \u2014 Email: astitvabajpai22@gmail.com \u2014 LinkedIn: linkedin.com/in/astitv-b-469262287 \u2014\nGitHub: github.com/astitvabajpai \u2014\nProfessional Summary\nAI-Native Developer and Data Science undergraduate specializing in vibe coding\u2014rapidly shipping full-stack\napplications through AI-assisted development workflows. Experienced in leveraging LLMs, no-code/low-code\nplatforms, and modern IDEs with AI copilots to transform ideas into production-ready prototypes within hours.\nProficient in iterative prompting, context engineering, and AI-augmented debugging. Combines strong data\nanalytics foundation with modern vibe coding practices to build intelligent, data-driven applications. Actively\nseeking opportunities in AI-assisted development and rapid prototyping roles.\nEducation\nGalgotias College of Engineering and Technology, Greater Noida Expected Graduation: 2027\nBachelor of Technology in Computer Science Engineering (Data Science)\nCGPA: 7.4\n\u2013Relevant Coursework:Data Structures, Database Management Systems (DBMS), Statistics, Machine Learning, Data\nMining, Human-AI Interaction\nTechnical Skills",
+      "metadata": {
+        "producer": "pdfTeX-1.40.27",
+        "creator": "LaTeX with hyperref",
+        "creationdate": "2026-03-01T18:17:22+00:00",
+        "author": "",
+        "keywords": "",
+        "moddate": "2026-03-01T18:17:22+00:00",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+        "subject": "",
+        "title": "",
+        "trapped": "/False",
+        "source": "storage\\uploads\\default\\vibe resume.pdf",
+        "total_pages": 2,
+        "page": 0,
+        "page_label": "1",
+        "file_name": "vibe resume.pdf",
+        "document_id": "9c49dbb05488ce1f1ea79b46fa2af7bc",
+        "chunk_id": "9c49dbb05488ce1f1ea79b46fa2af7bc-0",
+        "chunk_index": 0,
+        "user_id": "default"
+      }
+    },
+    {
+      "page_content": "CGPA: 7.4\n\u2013Relevant Coursework:Data Structures, Database Management Systems (DBMS), Statistics, Machine Learning, Data\nMining, Human-AI Interaction\nTechnical Skills\n\u2022Vibe Coding & AI Tools:Cursor, GitHub Copilot, Claude, ChatGPT, Bolt.new, Lovable, v0.dev, Replit Agent, Windsurf\n\u2022Programming Languages:Python, JavaScript/TypeScript, SQL, Java, C\n\u2022Rapid Prototyping:Full-stack web apps, MVPs, AI-powered features, Chrome extensions, automation scripts\n\u2022AI Integration:OpenAI API, LangChain, prompt engineering, RAG implementations, fine-tuning basics\n\u2022Frontend & Backend:React, Next.js, Tailwind CSS, Node.js, Express, FastAPI\n\u2022Databases & Cloud:MySQL, NoSQL, Firebase, Supabase, Vercel, Render\n\u2022Data & Analytics:Pandas, NumPy, Power BI, data visualization, ETL pipelines\n\u2022Version Control & Deployment:Git, GitHub, Docker, CI/CD workflows\nExperience\nAI-Native Developer & Vibe Coder (Independent Projects)2024 \u2013 Present\n\u2013Shipped 10+ full-stack applications using AI-assisted development tools (Cursor, Bolt.new, v0.dev), reducing\ndevelopment time by 70%.\n\u2013Architected complex applications through iterative prompting and context engineering with Claude and GPT-4.",
+      "metadata": {
+        "producer": "pdfTeX-1.40.27",
+        "creator": "LaTeX with hyperref",
+        "creationdate": "2026-03-01T18:17:22+00:00",
+        "author": "",
+        "keywords": "",
+        "moddate": "2026-03-01T18:17:22+00:00",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+        "subject": "",
+        "title": "",
+        "trapped": "/False",
+        "source": "storage\\uploads\\default\\vibe resume.pdf",
+        "total_pages": 2,
+        "page": 0,
+        "page_label": "1",
+        "file_name": "vibe resume.pdf",
+        "document_id": "9c49dbb05488ce1f1ea79b46fa2af7bc",
+        "chunk_id": "9c49dbb05488ce1f1ea79b46fa2af7bc-1",
+        "chunk_index": 1,
+        "user_id": "default"
+      }
+    },
+    {
+      "page_content": "development time by 70%.\n\u2013Architected complex applications through iterative prompting and context engineering with Claude and GPT-4.\n\u2013Built and deployed production-ready MVPs including SaaS dashboards, AI chatbots, and data visualization tools within\n24-48 hour sprints.\n\u2013Integrated OpenAI and open-source LLMs into applications using LangChain and custom API implementations.\n\u2013Developed automated data pipelines combining Python analytics with AI-generated frontend interfaces.\nProjects\nAI-Powered Analytics Dashboard\u2014Next.js, OpenAI API, Python, Tailwind CSS, Vercel\n\u2013Vibe-coded a full-stack analytics platform using Cursor and v0.dev in 48 hours; features natural language querying of\nCSV datasets.\n\u2013Implemented RAG pipeline allowing users to chat with their data using LangChain and OpenAI embeddings.\n\u2013Deployed on Vercel with serverless functions handling 10,000+ row datasets with sub-second query response.\nSmart SQL Generator\u2014Python, FastAPI, React, OpenAI API\n\u2013Built an AI-powered tool that converts natural language questions into optimized SQL queries using few-shot prompting.",
+      "metadata": {
+        "producer": "pdfTeX-1.40.27",
+        "creator": "LaTeX with hyperref",
+        "creationdate": "2026-03-01T18:17:22+00:00",
+        "author": "",
+        "keywords": "",
+        "moddate": "2026-03-01T18:17:22+00:00",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+        "subject": "",
+        "title": "",
+        "trapped": "/False",
+        "source": "storage\\uploads\\default\\vibe resume.pdf",
+        "total_pages": 2,
+        "page": 0,
+        "page_label": "1",
+        "file_name": "vibe resume.pdf",
+        "document_id": "9c49dbb05488ce1f1ea79b46fa2af7bc",
+        "chunk_id": "9c49dbb05488ce1f1ea79b46fa2af7bc-2",
+        "chunk_index": 2,
+        "user_id": "default"
+      }
+    },
+    {
+      "page_content": "\u2013Achieved 90%+ accuracy on complex joins, window functions, and CTEs through iterative prompt refinement.\n\u2013Integrated with MySQL and PostgreSQL schemas for real-time database interaction.\nRegional Sales Analysis (Vibe-Coded Visualization)\u2014Python, SQL, AI-Assisted Power BI, Pandas\n\u2013Analyzed 50,000+ record dataset using AI-assisted Python scripts for cleaning and EDA automation.\n\u2013Generated Power BI dashboard using AI-suggested DAX measures and layout optimizations.\n\u2013Implemented predictive trend analysis using scikit-learn with AI-assisted model selection and tuning.\nNetflix Data Exploration with AI Insights\u2014SQL, Python, OpenAI API\n\u2013Utilized AI assistants to optimize complex SQL queries and generate automated insight narratives from query results.\n\u2013Built automated content analysis pipeline generating genre trend reports using GPT-4 summarization.\n\u2013Created interactive Streamlit interface vibe-coded in under 3 hours for exploratory data visualization.\nVibe Coding Approach\n\u2022Ship Fast, Iterate Faster:Prioritize working prototypes over perfect code; use AI to refactor and optimize post-MVP.",
+      "metadata": {
+        "producer": "pdfTeX-1.40.27",
+        "creator": "LaTeX with hyperref",
+        "creationdate": "2026-03-01T18:17:22+00:00",
+        "author": "",
+        "keywords": "",
+        "moddate": "2026-03-01T18:17:22+00:00",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+        "subject": "",
+        "title": "",
+        "trapped": "/False",
+        "source": "storage\\uploads\\default\\vibe resume.pdf",
+        "total_pages": 2,
+        "page": 1,
+        "page_label": "2",
+        "file_name": "vibe resume.pdf",
+        "document_id": "9c49dbb05488ce1f1ea79b46fa2af7bc",
+        "chunk_id": "9c49dbb05488ce1f1ea79b46fa2af7bc-3",
+        "chunk_index": 3,
+        "user_id": "default"
+      }
+    },
+    {
+      "page_content": "Vibe Coding Approach\n\u2022Ship Fast, Iterate Faster:Prioritize working prototypes over perfect code; use AI to refactor and optimize post-MVP.\n\u2022Prompt Engineering as Code:Treat system prompts and context windows as critical architecture components.\n\u2022Human-in-the-Loop:Maintain deep technical understanding while leveraging AI for implementation velocity.\n\u2022Stack Agnostic:Rapidly adapt to new frameworks and languages through AI-assisted learning and code generation.\nCertifications\n\u2022Oracle Database Programming with SQL\n\u2022Machine Learning \u2013 IIT Kanpur\n\u2022Oracle Cloud Infrastructure \u2013 Data Science Professional\n\u2022AI Engineering & Prompt Engineering (Self-Certified via Project Portfolio)",
+      "metadata": {
+        "producer": "pdfTeX-1.40.27",
+        "creator": "LaTeX with hyperref",
+        "creationdate": "2026-03-01T18:17:22+00:00",
+        "author": "",
+        "keywords": "",
+        "moddate": "2026-03-01T18:17:22+00:00",
+        "ptex.fullbanner": "This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) kpathsea version 6.4.1",
+        "subject": "",
+        "title": "",
+        "trapped": "/False",
+        "source": "storage\\uploads\\default\\vibe resume.pdf",
+        "total_pages": 2,
+        "page": 1,
+        "page_label": "2",
+        "file_name": "vibe resume.pdf",
+        "document_id": "9c49dbb05488ce1f1ea79b46fa2af7bc",
+        "chunk_id": "9c49dbb05488ce1f1ea79b46fa2af7bc-4",
+        "chunk_index": 4,
+        "user_id": "default"
+      }
+    }
+  ]
+}
